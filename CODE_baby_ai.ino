@@ -17,8 +17,8 @@
 #include <DHT.h>
 
 // ---------------- WiFi ----------------
-char ssid[] = "Wawaaa";
-char pass[] = "wawa290812";
+char ssid[] = "xoxo";
+char pass[] = "assyifaxoxo";
 
 // ---------------- LCD ----------------
 LiquidCrystal_I2C lcd(0x27,16,2);
