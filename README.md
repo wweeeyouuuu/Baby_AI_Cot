@@ -1,2 +1,2 @@
 # Baby_AI_Cot
-To detect the potion of the baby and ensure the baby is in safe
+An IoT-based smart baby monitoring system that detects unsafe conditions, monitors temperature, provides real-time alerts, and automatically controls a cooling fan for a safer sleeping environment.
