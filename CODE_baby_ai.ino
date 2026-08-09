@@ -4,9 +4,9 @@
 // =====================================================
 
 // ---------------- Blynk ----------------
-#define BLYNK_TEMPLATE_ID "TMPL6vFSvLIWq"
-#define BLYNK_TEMPLATE_NAME "Baby AI Monitor"
-#define BLYNK_AUTH_TOKEN "XYvWrztGBgt_ssZfM2g1J8sq2wk1M_ad"
+#define BLYNK_TEMPLATE_ID "YOUR_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "YOUR_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN YOUR_AUTH_TOKEN"
 
 // ---------------- Libraries ----------------
 #include <ESP8266WiFi.h>
@@ -17,8 +17,8 @@
 #include <DHT.h>
 
 // ---------------- WiFi ----------------
-char ssid[] = "Wawaaa";
-char pass[] = "wawa290812";
+char ssid[] = "YOUR_WIFI_NAME";
+char pass[] = "YOUR_WIFI_PASSWORD";
 
 // ---------------- LCD ----------------
 LiquidCrystal_I2C lcd(0x27,16,2);
