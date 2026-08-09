@@ -1,7 +1,3 @@
-CODE_baby_ai.ino: Code for arduino ide
-
-baby_ai.py: Python code in Visual Studio Code
-
 # 🍼 Smart Baby Monitor & Smart Cot Safety System
 
 An IoT-based smart baby monitoring system designed to improve baby safety by monitoring environmental conditions, detecting potentially unsafe situations, and providing real-time alerts and automatic responses.
